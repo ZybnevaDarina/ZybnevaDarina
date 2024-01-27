@@ -2,7 +2,7 @@ Greetings! 👋 I'm Zybneva Darina
 
 🌐 Blockchain Enthusiast & Validator 🛠️
 
-Passionate about blockchain technology, I've immersed myself in the world of cryptocurrency since 2022, specializing in blockchain validation. I bring extensive experience in managing nodes for various projects, showcasing adaptability across different blockchain ecosystems. Notable projects I've engaged with include Aleo, Massa, Quai, IronFish, Stride, Sei, Aptos, Humanode, Kyve, SSV, and Sui.
+Passionate about blockchain technology, I've immersed myself in the world of cryptocurrency since 2022, specializing in blockchain validation. I bring extensive experience in managing nodes for various projects, showcasing adaptability across different blockchain ecosystems. Notable projects I've engaged with include Aleo, Massa, Kyve, SSV, Sui, Quai, IronFish, Stride, Sei, Aptos and Humanode.
 
 Key Highlights 🌟
 
